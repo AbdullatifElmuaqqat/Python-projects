@@ -1,1 +1,8 @@
-A machine learning model using Python to Predict Loan Approvals Using Gaussian Naive Bayes.
+a supervised machine learning model in python to predict loan approvals using Gaussian Naive Bayes
+and various strong libraries such as pandas, numpy, scikit-learn, and matplotlib. 
+
+Description:
+machine learning project that predicts loan approval status based on customer data.
+The model trains %80 of the large database and test with the rest.
+This model was built using the Gaussian Naive Bayes algorithm and demonstrates how to 
+preprocess data, train a classifier, evaluate its performance, and save the trained model for future use.
