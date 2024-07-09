@@ -1,0 +1,1001 @@
+Age,Years of Experience,Number of Trainings Attended,Department,Education Level,Gender,Previous Year Rating,Length of Service,Number of Projects Handled,Promoted
+74,5,11,Relations,High School,Female,73,2,10,0
+24,22,27,Customer Service,Master's,Female,75,8,41,0
+42,4,16,Marketing,High School,Male,87,36,97,0
+40,28,22,IT,Bachelor's,Male,62,22,97,0
+47,20,2,Marketing,Bachelor's,Male,67,20,82,0
+40,15,16,Relations,Some College,Female,96,14,60,0
+58,20,28,Customer Service,Master's,Male,56,6,15,0
+21,1,8,Marketing,Master's,Male,92,25,51,0
+67,12,26,Relations,Master's,Female,79,35,37,0
+53,6,21,IT,Bachelor's,Female,61,8,99,0
+47,2,26,Relations,High School,Female,85,20,45,1
+60,11,16,Relations,Master's,Male,82,26,91,0
+48,15,2,IT,Master's,Male,50,23,1,0
+79,24,27,HR,Bachelor's,Male,66,12,51,0
+59,18,7,HR,PhD,Male,74,35,54,0
+23,23,27,Customer Service,High School,Male,74,17,99,1
+18,5,23,IT,Master's,Female,65,29,87,0
+73,3,14,HR,Bachelor's,Male,72,17,87,0
+34,29,11,Customer Service,Some College,Female,57,12,75,0
+48,16,5,IT,Bachelor's,Male,55,17,8,0
+62,29,4,Relations,Bachelor's,Female,50,33,19,0
+40,13,12,Relations,Some College,Female,71,36,66,0
+37,12,24,HR,High School,Female,59,38,4,0
+44,26,18,Marketing,High School,Female,64,4,48,0
+41,27,17,Relations,Bachelor's,Male,51,10,38,0
+77,12,8,Marketing,Bachelor's,Male,66,32,67,0
+28,17,23,Customer Service,PhD,Male,96,17,35,0
+42,21,23,Marketing,Master's,Female,75,32,57,1
+53,2,6,Customer Service,High School,Male,50,10,34,0
+18,20,8,Customer Service,Bachelor's,Male,92,37,52,0
+76,12,16,Marketing,Master's,Male,53,37,56,0
+39,20,10,IT,PhD,Female,58,7,91,0
+31,1,20,Marketing,PhD,Male,54,33,29,0
+55,23,20,HR,Bachelor's,Male,70,35,20,0
+29,25,10,Marketing,High School,Female,82,1,82,0
+60,6,12,HR,PhD,Female,96,27,67,0
+67,6,16,IT,Bachelor's,Male,52,2,32,0
+51,10,23,HR,Some College,Male,76,9,25,0
+54,27,13,IT,High School,Male,56,23,20,0
+21,22,15,HR,Some College,Female,58,16,7,0
+54,11,8,Marketing,Bachelor's,Male,92,15,23,0
+36,17,26,HR,Some College,Male,61,12,11,0
+24,14,27,IT,Master's,Female,92,25,50,1
+56,24,22,HR,Master's,Female,85,20,93,1
+73,25,14,Customer Service,PhD,Male,53,16,47,0
+38,19,9,Marketing,Some College,Female,71,1,83,0
+63,19,8,Customer Service,High School,Male,75,25,63,0
+58,4,14,Marketing,Bachelor's,Male,86,25,39,0
+41,27,20,HR,PhD,Male,64,22,46,0
+76,1,19,IT,Master's,Male,71,25,6,0
+40,10,13,IT,High School,Male,94,36,84,0
+23,13,12,IT,Bachelor's,Female,70,38,79,0
+21,12,11,HR,Bachelor's,Female,77,10,45,0
+78,8,7,Customer Service,Some College,Female,91,11,91,0
+49,16,24,IT,High School,Female,65,21,6,0
+40,24,7,Relations,High School,Female,86,18,19,0
+30,28,19,Marketing,Bachelor's,Female,64,35,67,0
+64,29,1,HR,Master's,Female,94,3,87,0
+52,7,15,Marketing,Bachelor's,Female,70,3,84,0
+26,25,11,Relations,Bachelor's,Female,50,10,29,0
+61,22,28,Relations,Master's,Female,56,30,65,0
+31,17,28,Marketing,High School,Male,59,16,64,0
+46,18,23,HR,Some College,Male,74,4,74,0
+61,6,2,IT,Some College,Male,91,37,19,0
+73,23,2,HR,Bachelor's,Female,59,25,67,0
+58,14,5,Customer Service,Master's,Male,88,10,19,0
+74,5,24,Marketing,High School,Male,56,7,39,0
+23,17,10,HR,PhD,Female,97,9,83,0
+70,20,1,IT,PhD,Male,97,29,62,0
+27,15,16,Marketing,Master's,Male,92,11,71,0
+43,24,29,IT,Bachelor's,Male,89,13,91,0
+37,21,6,Customer Service,High School,Male,60,28,86,0
+46,27,6,HR,PhD,Male,84,6,75,0
+69,2,5,HR,Bachelor's,Male,56,11,30,0
+35,9,19,Marketing,Bachelor's,Female,95,19,70,0
+53,25,27,IT,Bachelor's,Male,75,36,39,0
+50,21,17,IT,Some College,Male,90,18,56,0
+78,13,10,Relations,Some College,Female,59,31,89,0
+58,13,2,Relations,Master's,Male,69,9,22,0
+25,18,14,HR,Bachelor's,Female,60,38,56,0
+26,13,28,Relations,PhD,Female,56,3,13,0
+56,5,28,Relations,Some College,Female,99,4,16,0
+52,10,16,HR,PhD,Male,60,18,81,0
+28,16,7,Customer Service,Bachelor's,Female,64,36,52,0
+77,19,29,Marketing,High School,Male,57,9,54,0
+43,12,28,Relations,Bachelor's,Female,68,9,88,0
+19,28,6,Customer Service,PhD,Male,97,26,33,0
+37,2,28,Relations,PhD,Male,99,8,56,0
+70,26,21,Relations,Master's,Female,85,36,99,1
+37,23,19,Customer Service,High School,Male,85,10,4,0
+25,14,9,Customer Service,Bachelor's,Female,59,26,98,0
+62,16,14,IT,Master's,Male,94,11,26,0
+48,5,24,IT,Bachelor's,Male,87,24,64,1
+18,16,3,Customer Service,High School,Female,89,27,87,0
+70,28,15,HR,Bachelor's,Male,56,5,35,0
+48,20,2,HR,Master's,Female,88,33,99,0
+51,3,22,Marketing,Some College,Female,57,1,91,0
+62,11,5,HR,Master's,Male,63,17,57,0
+19,3,18,IT,High School,Male,72,13,53,0
+41,10,27,HR,PhD,Male,94,34,18,0
+32,12,19,IT,Master's,Male,80,8,7,0
+33,26,21,IT,Some College,Male,98,34,44,1
+35,2,12,Customer Service,PhD,Female,69,1,11,0
+55,2,9,Relations,PhD,Male,50,12,72,0
+22,11,20,IT,Master's,Female,93,9,10,0
+59,21,28,HR,Some College,Male,92,25,2,0
+49,3,23,Customer Service,PhD,Male,70,23,23,0
+51,3,12,IT,High School,Female,82,26,12,0
+58,16,18,IT,Master's,Male,52,39,40,0
+46,2,20,Relations,Some College,Male,50,3,13,0
+62,14,21,Customer Service,Bachelor's,Female,88,9,13,0
+56,11,21,Marketing,High School,Female,87,2,93,0
+46,2,13,Relations,High School,Male,53,23,11,0
+74,21,29,HR,PhD,Male,76,1,52,0
+36,1,1,Customer Service,Bachelor's,Male,85,31,67,0
+77,17,20,IT,Master's,Female,72,18,23,0
+18,27,5,IT,Bachelor's,Female,69,4,78,0
+68,13,1,Marketing,PhD,Male,67,18,37,0
+60,26,28,IT,Some College,Male,78,34,14,0
+41,22,6,HR,High School,Female,81,12,57,0
+66,9,4,IT,Master's,Male,89,4,86,0
+29,16,26,Customer Service,Bachelor's,Female,52,35,86,0
+61,20,9,Customer Service,Some College,Male,54,24,61,0
+61,14,6,Relations,Master's,Male,50,24,62,0
+18,24,9,Marketing,Some College,Male,50,33,49,0
+76,24,27,Customer Service,Some College,Male,73,20,75,1
+38,3,20,IT,PhD,Female,60,3,4,0
+58,18,19,Marketing,Some College,Female,81,26,59,0
+38,18,4,Marketing,Some College,Male,55,30,26,0
+45,22,7,Relations,Some College,Male,92,11,93,0
+18,3,27,IT,Some College,Male,95,4,6,0
+54,29,6,IT,PhD,Male,80,22,23,0
+50,13,5,HR,Master's,Female,75,27,20,0
+34,22,19,Customer Service,Master's,Male,51,10,46,0
+29,29,14,HR,Bachelor's,Male,68,21,71,0
+78,25,8,Relations,Master's,Female,53,25,63,0
+57,3,22,IT,Some College,Female,60,5,67,0
+64,1,6,Customer Service,Some College,Male,76,20,15,0
+59,11,25,Marketing,Bachelor's,Female,75,16,12,0
+58,5,28,HR,PhD,Male,71,38,39,0
+32,11,8,Customer Service,Master's,Male,73,1,42,0
+32,29,20,HR,PhD,Male,79,34,63,1
+19,27,25,Customer Service,Bachelor's,Male,72,5,86,0
+33,16,16,IT,High School,Female,70,12,77,0
+27,12,13,Marketing,Master's,Female,80,16,93,0
+31,25,14,Marketing,High School,Female,56,32,45,0
+61,26,8,Customer Service,High School,Male,61,30,44,0
+24,18,3,IT,High School,Male,81,22,56,0
+60,28,11,Marketing,High School,Male,55,17,35,0
+28,19,8,Relations,Bachelor's,Male,84,34,41,0
+67,23,6,HR,Some College,Male,57,34,16,0
+40,24,13,Relations,High School,Female,94,39,62,0
+36,9,21,Relations,Bachelor's,Male,82,27,44,1
+31,29,13,IT,Bachelor's,Female,89,24,24,0
+34,10,23,Marketing,PhD,Female,87,33,34,0
+27,14,6,Relations,Master's,Female,94,37,54,0
+46,4,12,Marketing,Master's,Female,96,19,54,0
+18,5,19,IT,PhD,Male,93,38,10,0
+78,16,20,HR,High School,Male,88,28,18,0
+40,9,15,IT,PhD,Male,98,25,38,0
+77,18,28,Relations,Master's,Female,91,27,9,0
+22,1,21,IT,Bachelor's,Male,98,16,29,0
+59,12,13,Relations,PhD,Male,63,37,80,0
+79,23,15,HR,Master's,Female,74,31,50,0
+76,27,8,Relations,Bachelor's,Male,84,20,33,0
+52,6,29,Marketing,High School,Male,79,37,75,1
+57,22,5,Marketing,Some College,Female,64,39,59,0
+76,8,16,Relations,Some College,Female,61,34,34,0
+22,23,29,Customer Service,Bachelor's,Male,76,20,21,0
+69,6,28,Relations,Master's,Female,84,6,51,0
+70,2,1,HR,Some College,Male,71,38,30,0
+20,13,28,Relations,Bachelor's,Male,52,22,60,0
+68,11,3,Customer Service,Bachelor's,Female,78,36,57,0
+68,19,11,HR,PhD,Female,89,23,47,0
+63,19,4,Customer Service,Some College,Male,76,9,69,0
+20,7,12,IT,Master's,Female,87,3,20,0
+29,15,14,HR,Master's,Male,75,2,43,0
+29,23,15,Relations,Bachelor's,Male,75,15,73,0
+31,24,4,Relations,Master's,Female,76,33,91,0
+76,3,12,IT,Bachelor's,Female,89,25,18,0
+41,4,15,Customer Service,High School,Female,69,14,3,0
+49,19,19,Relations,Bachelor's,Female,50,39,41,0
+48,28,1,HR,Bachelor's,Female,83,33,83,0
+50,25,2,Marketing,PhD,Female,77,10,34,0
+64,10,24,Marketing,PhD,Male,64,36,47,0
+60,19,3,Relations,PhD,Female,56,22,77,0
+76,25,7,IT,Bachelor's,Female,69,23,85,0
+33,11,19,Marketing,Bachelor's,Male,91,18,59,0
+69,2,5,Relations,PhD,Male,91,15,18,0
+60,22,28,IT,High School,Female,55,36,83,0
+70,12,28,Customer Service,Bachelor's,Male,88,1,89,0
+78,26,6,IT,Master's,Male,96,9,54,0
+32,6,11,IT,Master's,Female,98,36,29,0
+31,10,25,IT,Some College,Male,65,9,79,0
+51,21,17,IT,PhD,Male,93,11,32,0
+64,17,28,IT,Bachelor's,Female,75,17,60,1
+50,16,4,IT,Bachelor's,Female,59,19,58,0
+36,13,15,IT,PhD,Male,82,33,53,0
+30,8,1,IT,High School,Male,92,19,94,0
+68,5,1,Marketing,Master's,Female,95,37,3,0
+24,9,10,HR,PhD,Female,94,35,93,0
+23,29,25,IT,Some College,Female,99,27,77,1
+38,12,3,Customer Service,Some College,Female,94,16,64,0
+58,11,15,Customer Service,Bachelor's,Female,56,18,71,0
+58,8,15,IT,Bachelor's,Female,81,27,97,0
+29,7,18,Customer Service,High School,Female,56,10,38,0
+31,14,13,Customer Service,Some College,Male,93,10,94,0
+68,27,10,HR,Some College,Male,69,2,64,0
+21,5,7,Customer Service,Some College,Female,66,10,39,0
+55,22,2,Customer Service,Master's,Female,94,2,54,0
+27,22,20,HR,Some College,Female,70,18,12,0
+54,24,17,HR,Master's,Female,60,28,89,0
+75,17,23,Relations,Some College,Female,66,12,22,0
+40,4,29,Customer Service,Master's,Male,69,11,70,0
+69,13,15,Relations,High School,Male,83,18,21,0
+65,11,8,Customer Service,Bachelor's,Male,90,30,19,0
+20,4,19,Relations,Some College,Female,54,26,41,0
+29,24,1,Relations,Bachelor's,Female,80,1,68,0
+18,27,9,Marketing,Bachelor's,Female,72,21,78,0
+51,23,18,Customer Service,Master's,Male,64,15,49,0
+64,29,6,Marketing,High School,Male,61,13,85,0
+33,10,22,Relations,PhD,Male,77,22,52,1
+78,25,15,IT,Master's,Female,74,34,77,0
+59,12,15,Marketing,High School,Male,55,23,41,0
+63,14,21,Customer Service,Some College,Female,70,13,10,0
+43,9,5,IT,High School,Male,97,28,36,0
+70,24,19,Relations,PhD,Female,77,34,89,0
+68,1,9,Customer Service,Bachelor's,Male,78,3,49,0
+63,26,25,Relations,PhD,Female,79,5,69,0
+40,21,3,Relations,Bachelor's,Female,89,16,89,0
+33,14,21,Customer Service,High School,Male,74,22,91,1
+45,22,7,HR,High School,Female,50,24,89,0
+19,7,19,IT,High School,Male,67,33,88,0
+60,26,19,Customer Service,PhD,Male,64,30,17,0
+21,9,22,Customer Service,Some College,Female,56,30,43,0
+62,15,20,Marketing,PhD,Female,53,7,5,0
+73,23,17,Customer Service,Bachelor's,Female,52,26,83,0
+62,4,19,Marketing,Some College,Female,79,35,2,0
+59,2,12,Marketing,Master's,Male,69,14,12,0
+20,18,15,Customer Service,PhD,Female,89,34,45,0
+70,25,6,Relations,Bachelor's,Male,63,24,30,0
+38,6,1,Marketing,Master's,Male,62,15,98,0
+61,16,29,IT,Master's,Male,61,31,91,0
+79,8,27,Marketing,PhD,Male,95,12,19,0
+23,11,17,Marketing,High School,Male,68,10,74,0
+22,28,5,Customer Service,Some College,Male,68,23,86,0
+71,11,17,Customer Service,Master's,Male,89,29,89,0
+39,17,28,Customer Service,Master's,Male,56,31,17,0
+41,20,29,Marketing,PhD,Male,58,10,41,0
+57,21,27,Customer Service,High School,Male,75,10,62,0
+21,9,2,HR,Master's,Female,73,20,35,0
+74,12,11,Relations,Some College,Female,65,20,4,0
+24,28,12,IT,High School,Female,88,35,74,0
+50,21,19,Marketing,High School,Male,54,17,75,0
+49,2,19,HR,Master's,Male,78,35,69,0
+75,16,15,IT,High School,Male,95,38,52,0
+68,14,28,HR,Some College,Male,83,5,31,0
+21,20,18,HR,PhD,Male,53,32,13,0
+39,18,18,Marketing,PhD,Female,84,32,14,0
+42,4,21,Customer Service,Master's,Female,77,1,50,0
+64,8,9,Customer Service,Master's,Female,98,21,38,0
+54,19,11,IT,PhD,Male,51,16,83,0
+27,4,9,Relations,High School,Male,63,38,61,0
+65,2,1,Customer Service,Bachelor's,Male,74,13,14,0
+72,2,1,Marketing,Bachelor's,Female,93,5,50,0
+67,5,22,IT,PhD,Female,75,39,49,1
+37,18,18,Marketing,High School,Female,66,18,58,0
+75,1,12,HR,Master's,Female,51,5,31,0
+28,24,29,Marketing,PhD,Female,70,1,21,0
+70,25,18,Relations,Bachelor's,Male,53,10,36,0
+57,24,13,IT,High School,Female,68,18,75,0
+71,4,16,Relations,Bachelor's,Female,93,37,34,0
+58,26,20,HR,High School,Male,84,13,93,0
+24,21,7,Marketing,Master's,Female,87,2,79,0
+33,4,29,IT,PhD,Female,57,8,16,0
+78,26,16,Customer Service,Bachelor's,Female,83,31,98,0
+24,19,29,IT,Master's,Female,75,25,11,0
+34,11,14,Marketing,PhD,Male,69,13,87,0
+61,13,11,IT,Some College,Female,79,2,99,0
+63,5,13,Marketing,High School,Female,88,20,19,0
+39,20,28,Marketing,High School,Female,70,18,39,0
+51,13,27,Relations,Master's,Female,83,5,70,0
+35,26,29,Marketing,Some College,Female,50,15,36,0
+25,19,12,HR,High School,Female,76,35,58,0
+52,15,3,Marketing,Some College,Male,57,2,34,0
+40,22,23,HR,Some College,Male,62,9,80,0
+53,12,19,Relations,Bachelor's,Male,89,27,68,0
+69,11,1,HR,Master's,Female,91,35,3,0
+19,23,23,IT,Bachelor's,Female,80,8,78,0
+65,6,19,Marketing,Master's,Male,81,9,73,0
+76,6,2,Marketing,PhD,Male,82,9,79,0
+35,6,13,Customer Service,Some College,Female,65,16,47,0
+57,11,8,Marketing,Bachelor's,Male,81,34,70,0
+74,1,24,Customer Service,PhD,Male,62,10,10,0
+65,7,6,Customer Service,Bachelor's,Male,97,32,95,0
+61,15,15,Marketing,Some College,Female,56,19,82,0
+75,26,27,HR,High School,Male,88,18,93,1
+27,29,3,Relations,Bachelor's,Female,94,14,46,0
+65,22,9,IT,Some College,Male,74,23,18,0
+29,5,28,HR,PhD,Female,80,1,83,0
+75,10,2,HR,Master's,Female,99,29,38,0
+57,26,24,Marketing,Some College,Female,87,31,40,1
+52,21,27,Relations,Master's,Male,97,26,90,1
+63,8,15,IT,Bachelor's,Female,69,24,55,0
+70,19,15,IT,Some College,Male,97,8,33,0
+75,25,21,HR,High School,Male,71,8,73,0
+78,21,28,Customer Service,PhD,Male,85,30,63,1
+48,29,11,Marketing,Some College,Male,52,3,35,0
+49,19,15,Customer Service,Master's,Male,71,3,44,0
+74,4,10,IT,High School,Male,65,21,57,0
+31,22,28,HR,High School,Female,97,11,74,0
+48,4,17,Relations,PhD,Male,78,9,5,0
+70,18,25,Marketing,High School,Female,51,21,8,0
+60,14,6,IT,Some College,Female,84,17,90,0
+52,5,2,Customer Service,Master's,Male,93,19,20,0
+21,3,2,Relations,Some College,Male,79,2,74,0
+55,17,3,Customer Service,Master's,Male,75,9,2,0
+29,19,26,Relations,High School,Female,55,32,36,0
+34,21,25,Customer Service,Some College,Male,58,39,24,0
+31,14,7,Relations,PhD,Female,81,4,40,0
+32,8,4,Customer Service,Master's,Male,77,31,76,0
+77,18,18,HR,Master's,Female,60,1,65,0
+42,19,26,HR,Bachelor's,Female,67,14,4,0
+55,17,11,IT,PhD,Female,87,5,51,0
+62,11,4,Customer Service,PhD,Female,72,33,88,0
+22,22,26,IT,PhD,Male,76,26,81,1
+57,21,19,Relations,Bachelor's,Female,86,27,42,0
+49,7,29,IT,Bachelor's,Male,84,13,74,0
+57,24,7,Relations,Some College,Female,73,12,98,0
+69,25,8,IT,Master's,Female,77,36,29,0
+63,27,20,HR,PhD,Female,90,17,34,0
+73,22,26,Marketing,Some College,Male,86,15,44,1
+62,12,12,Marketing,High School,Male,92,36,20,0
+66,17,16,Relations,Bachelor's,Female,61,6,41,0
+37,13,6,IT,PhD,Male,58,13,84,0
+47,24,19,HR,High School,Male,98,9,19,0
+51,1,19,Relations,Some College,Female,64,12,6,0
+47,9,24,HR,Bachelor's,Male,57,32,99,0
+27,3,26,HR,PhD,Female,91,9,39,0
+33,7,7,IT,Master's,Female,84,29,40,0
+41,13,15,IT,Master's,Male,90,26,59,0
+39,20,16,HR,Some College,Female,71,1,67,0
+30,9,18,IT,Bachelor's,Female,50,2,2,0
+35,14,9,HR,PhD,Female,79,23,81,0
+34,14,22,IT,Bachelor's,Female,79,34,79,1
+20,25,3,Relations,Master's,Male,93,4,9,0
+68,21,11,HR,Some College,Female,69,8,14,0
+54,3,20,Relations,Bachelor's,Female,54,35,51,0
+56,6,27,Marketing,High School,Male,73,18,80,1
+32,18,28,IT,High School,Male,87,24,22,0
+78,2,15,IT,Bachelor's,Male,67,38,56,0
+70,9,7,Relations,High School,Male,65,30,47,0
+74,23,27,HR,Bachelor's,Male,74,29,7,0
+57,23,21,Marketing,High School,Male,85,28,19,0
+71,7,13,IT,Some College,Male,85,19,93,0
+44,14,4,Relations,Master's,Male,76,36,76,0
+27,9,20,Relations,Bachelor's,Male,53,13,35,0
+59,16,7,IT,Some College,Female,67,33,26,0
+63,28,20,Relations,Bachelor's,Male,90,19,37,0
+24,22,21,IT,Bachelor's,Male,87,7,56,0
+71,29,2,IT,Master's,Female,97,2,37,0
+57,20,1,Customer Service,Some College,Female,99,19,70,0
+41,8,13,IT,PhD,Female,92,11,61,0
+47,21,18,HR,PhD,Female,74,37,78,0
+77,22,20,HR,Master's,Male,60,18,48,0
+24,27,25,Customer Service,Some College,Female,74,12,6,0
+57,18,12,Marketing,Bachelor's,Male,72,15,39,0
+77,12,24,HR,Bachelor's,Female,60,1,80,0
+35,3,11,Marketing,High School,Male,91,35,22,0
+45,1,26,Relations,PhD,Male,52,9,88,0
+74,14,4,Marketing,Master's,Male,89,4,54,0
+26,10,8,Relations,High School,Female,89,31,94,0
+65,9,21,IT,Some College,Male,74,15,2,0
+31,5,28,Marketing,PhD,Female,73,2,56,0
+78,13,26,Customer Service,Some College,Male,71,30,41,1
+42,13,2,Relations,Bachelor's,Male,78,26,80,0
+57,3,29,HR,Master's,Male,60,12,3,0
+53,3,3,Relations,PhD,Female,88,9,93,0
+43,9,15,HR,Master's,Male,81,38,63,0
+31,23,17,HR,Some College,Female,98,6,69,0
+40,11,10,Relations,Bachelor's,Male,74,14,54,0
+37,7,23,HR,Some College,Male,64,6,77,0
+40,9,8,IT,High School,Male,89,1,36,0
+30,25,16,HR,Some College,Male,71,5,95,0
+48,10,14,Customer Service,High School,Male,59,29,64,0
+45,11,11,Marketing,High School,Female,61,1,47,0
+29,14,17,Marketing,Bachelor's,Female,70,20,77,0
+37,6,19,Relations,Master's,Male,63,9,97,0
+77,23,13,Relations,PhD,Female,66,25,71,0
+29,17,2,Customer Service,PhD,Female,87,39,14,0
+43,21,25,IT,PhD,Male,53,13,43,0
+55,4,19,Relations,PhD,Male,95,26,16,0
+77,18,10,Relations,PhD,Male,70,17,9,0
+30,25,26,HR,High School,Female,58,18,96,0
+48,3,6,Relations,Bachelor's,Male,74,5,12,0
+66,20,4,Customer Service,Some College,Female,72,16,15,0
+70,22,27,Marketing,Master's,Male,78,7,92,0
+32,13,8,Customer Service,High School,Male,68,8,69,0
+20,22,1,Marketing,Master's,Male,53,20,99,0
+78,19,16,Marketing,Master's,Female,73,37,12,0
+42,26,7,IT,Master's,Male,93,24,84,0
+73,29,29,Marketing,Master's,Male,61,2,16,0
+58,17,17,Relations,Bachelor's,Male,53,13,68,0
+75,8,21,HR,High School,Female,93,36,21,0
+24,20,29,HR,Master's,Male,53,32,50,0
+24,7,15,Relations,High School,Male,89,24,56,0
+41,22,23,IT,PhD,Female,96,3,70,0
+23,5,21,HR,High School,Female,75,12,96,0
+47,14,20,Customer Service,Some College,Female,72,25,67,1
+57,5,20,Relations,PhD,Male,62,7,20,0
+45,26,2,Relations,Master's,Male,84,27,66,0
+34,9,24,Relations,Master's,Male,92,18,47,1
+27,23,14,HR,Bachelor's,Female,84,20,60,0
+41,9,24,Marketing,High School,Female,93,26,49,1
+38,24,18,HR,Bachelor's,Female,64,8,70,0
+51,7,9,HR,Bachelor's,Male,75,4,78,0
+74,3,28,HR,Some College,Female,69,30,6,0
+69,28,16,HR,Master's,Male,68,26,50,0
+52,29,10,Customer Service,Master's,Female,80,31,41,0
+45,22,8,IT,High School,Male,59,25,28,0
+36,20,17,HR,PhD,Male,61,38,12,0
+32,6,12,HR,Some College,Male,65,36,46,0
+38,26,20,Customer Service,Bachelor's,Female,52,3,91,0
+22,6,19,Marketing,High School,Female,74,19,86,0
+39,11,6,Marketing,Master's,Female,77,15,60,0
+48,27,3,Relations,PhD,Female,91,38,40,0
+78,15,28,Relations,Bachelor's,Male,80,11,52,0
+50,11,6,Relations,PhD,Male,88,36,15,0
+46,21,27,Relations,Some College,Male,56,21,53,0
+76,14,20,Marketing,Master's,Female,95,36,2,0
+72,10,3,Relations,Master's,Female,97,28,41,0
+29,11,13,IT,Bachelor's,Male,62,25,68,0
+40,20,25,Customer Service,High School,Male,57,6,8,0
+67,5,25,Customer Service,Master's,Male,58,12,72,0
+36,19,3,HR,PhD,Female,76,8,14,0
+41,12,6,HR,High School,Male,90,34,68,0
+36,5,28,Marketing,PhD,Male,65,4,77,0
+75,19,8,IT,High School,Female,60,11,91,0
+60,3,10,Relations,PhD,Male,91,16,21,0
+66,6,16,IT,High School,Female,59,18,70,0
+21,18,20,IT,High School,Male,56,10,85,0
+39,18,27,Relations,Some College,Male,95,9,94,0
+77,6,5,IT,PhD,Female,68,29,62,0
+18,5,15,Relations,PhD,Female,53,37,6,0
+65,28,24,Customer Service,PhD,Female,79,37,5,0
+69,13,27,Marketing,Some College,Male,66,29,16,0
+41,24,19,Marketing,Bachelor's,Female,51,36,70,0
+63,27,25,Customer Service,Bachelor's,Female,99,5,81,0
+27,14,5,Relations,Master's,Female,84,13,20,0
+51,13,24,IT,Bachelor's,Male,63,36,45,0
+39,21,27,Marketing,Some College,Male,67,18,93,0
+43,6,5,IT,High School,Male,54,5,41,0
+34,7,25,Customer Service,PhD,Male,74,23,85,1
+61,1,29,Relations,PhD,Male,93,34,60,1
+35,24,18,Relations,PhD,Male,51,34,27,0
+32,17,14,HR,Some College,Female,64,22,21,0
+33,11,8,IT,High School,Male,67,22,27,0
+64,8,8,Relations,Master's,Male,54,14,45,0
+41,1,1,Customer Service,Master's,Female,57,30,49,0
+37,7,14,Relations,Some College,Female,56,3,8,0
+61,6,17,HR,High School,Female,90,23,42,0
+71,13,2,Customer Service,Master's,Male,59,16,62,0
+36,12,14,HR,Bachelor's,Female,57,26,7,0
+52,3,5,Relations,Master's,Female,65,39,18,0
+68,24,17,IT,Master's,Male,88,9,33,0
+31,20,8,Relations,Master's,Female,61,23,91,0
+28,3,12,IT,Bachelor's,Female,64,2,75,0
+19,2,8,Customer Service,High School,Male,75,20,68,0
+20,19,29,Customer Service,High School,Male,97,29,59,1
+34,7,27,Customer Service,Some College,Male,76,27,43,1
+60,3,16,Marketing,Bachelor's,Female,97,26,2,0
+58,22,12,Marketing,PhD,Male,66,24,58,0
+72,8,8,Relations,Master's,Female,96,17,85,0
+52,2,17,HR,Bachelor's,Female,73,22,57,0
+29,5,16,HR,Master's,Male,79,9,23,0
+30,28,1,Customer Service,Some College,Female,67,36,9,0
+78,4,24,HR,Some College,Male,53,25,93,0
+51,17,9,IT,Master's,Male,98,30,99,0
+71,19,15,Customer Service,Bachelor's,Female,60,34,43,0
+57,10,13,HR,Master's,Male,72,32,77,0
+19,21,2,IT,Some College,Female,84,4,9,0
+39,8,6,Relations,High School,Male,60,22,13,0
+35,10,1,Customer Service,Bachelor's,Female,88,17,4,0
+25,5,12,Customer Service,Master's,Male,80,5,7,0
+45,28,25,Marketing,Master's,Female,71,13,62,0
+33,7,5,Relations,PhD,Male,93,10,98,0
+55,12,27,IT,Bachelor's,Female,91,39,97,1
+57,18,2,Customer Service,Bachelor's,Male,77,30,84,0
+53,6,13,Marketing,Bachelor's,Female,77,8,46,0
+56,14,28,Relations,Master's,Male,76,27,58,1
+66,24,27,IT,High School,Female,63,28,32,0
+76,11,24,Relations,High School,Male,91,33,17,0
+70,26,9,IT,Bachelor's,Female,64,22,13,0
+71,2,14,Customer Service,Master's,Female,56,19,11,0
+39,27,7,IT,Bachelor's,Female,74,21,15,0
+55,14,7,Relations,High School,Female,63,17,16,0
+19,23,14,HR,Some College,Male,92,32,77,0
+73,18,3,Customer Service,Master's,Female,82,33,37,0
+47,26,25,Marketing,Bachelor's,Female,59,31,8,0
+76,4,16,Customer Service,High School,Female,93,22,82,0
+28,14,10,Customer Service,High School,Male,95,25,8,0
+40,17,10,HR,High School,Male,61,33,76,0
+50,11,8,IT,Bachelor's,Male,54,21,1,0
+22,15,12,Marketing,PhD,Male,52,8,4,0
+30,13,8,Marketing,High School,Female,83,2,73,0
+33,19,7,Customer Service,Some College,Female,50,7,47,0
+18,19,19,HR,High School,Male,84,8,48,0
+42,5,23,Customer Service,Some College,Male,59,10,22,0
+27,14,4,Customer Service,High School,Female,66,33,78,0
+66,10,23,Customer Service,Master's,Male,61,2,73,0
+62,19,21,Relations,High School,Female,86,27,4,0
+70,11,18,Customer Service,Bachelor's,Male,89,20,18,0
+55,18,16,HR,Master's,Female,95,4,92,0
+22,10,26,Marketing,Master's,Male,55,23,75,0
+48,9,26,Customer Service,PhD,Male,72,27,22,0
+70,22,10,IT,PhD,Male,56,15,3,0
+44,20,2,HR,PhD,Male,93,8,10,0
+31,22,3,IT,High School,Female,57,10,33,0
+37,16,9,Relations,Bachelor's,Female,82,36,42,0
+18,26,23,HR,Some College,Male,50,33,4,0
+55,26,5,HR,Bachelor's,Male,64,13,81,0
+61,28,15,Customer Service,Master's,Male,54,32,16,0
+63,1,11,Relations,Bachelor's,Male,58,4,88,0
+72,26,26,IT,High School,Female,76,28,55,1
+44,27,6,Marketing,Bachelor's,Male,61,9,3,0
+20,11,23,Marketing,Master's,Female,65,2,16,0
+18,23,2,IT,Some College,Male,59,33,8,0
+38,29,29,Marketing,High School,Male,53,5,58,0
+56,8,12,Marketing,Some College,Female,76,27,52,0
+24,4,4,Relations,Some College,Female,63,5,83,0
+47,19,26,Relations,Bachelor's,Female,96,35,65,1
+20,14,25,HR,Some College,Male,73,33,56,1
+33,21,13,IT,Bachelor's,Male,86,13,26,0
+20,29,19,Customer Service,Master's,Male,61,35,98,0
+33,20,21,Customer Service,Bachelor's,Female,88,27,1,0
+19,11,10,Customer Service,High School,Male,95,1,7,0
+58,12,23,HR,Master's,Male,54,31,23,0
+73,25,20,Relations,Bachelor's,Female,86,9,58,0
+54,3,28,Marketing,Master's,Female,51,16,64,0
+55,27,25,Relations,PhD,Male,95,38,75,1
+57,23,29,HR,Bachelor's,Female,91,24,90,1
+28,26,15,IT,PhD,Male,61,29,36,0
+40,12,22,HR,Master's,Male,50,22,75,0
+79,26,16,HR,Some College,Male,86,21,9,0
+68,13,10,HR,High School,Male,77,34,61,0
+58,28,20,Customer Service,High School,Male,84,38,89,1
+41,9,17,Customer Service,High School,Female,72,8,15,0
+52,11,12,Relations,Bachelor's,Male,61,32,84,0
+40,12,24,Customer Service,Bachelor's,Female,53,17,19,0
+46,19,7,Relations,Bachelor's,Female,83,15,31,0
+70,3,10,HR,Bachelor's,Female,67,38,54,0
+31,16,16,Marketing,High School,Male,77,33,96,0
+22,26,7,Customer Service,Master's,Female,53,3,60,0
+20,23,5,Customer Service,PhD,Male,78,13,22,0
+30,6,15,Marketing,PhD,Female,68,18,78,0
+45,9,17,Relations,PhD,Female,96,26,7,0
+54,4,26,IT,Some College,Male,91,34,96,1
+56,9,23,HR,Bachelor's,Male,91,10,68,0
+76,22,27,IT,Master's,Female,89,1,58,0
+32,13,9,Customer Service,Bachelor's,Female,65,23,17,0
+75,4,14,Relations,Bachelor's,Female,99,36,94,0
+21,17,19,IT,High School,Male,57,4,28,0
+31,14,17,Customer Service,Some College,Female,70,29,99,0
+70,28,1,Marketing,Bachelor's,Male,57,28,72,0
+26,17,1,Customer Service,Some College,Male,74,13,45,0
+59,17,23,IT,Master's,Male,73,13,90,0
+60,1,11,IT,Some College,Male,68,39,79,0
+48,1,4,Marketing,High School,Female,94,9,45,0
+39,21,20,Relations,High School,Male,65,30,47,0
+27,21,20,Relations,Some College,Female,76,39,75,1
+64,25,21,Relations,High School,Female,93,38,54,1
+79,17,1,HR,PhD,Male,96,34,6,0
+60,9,10,Marketing,Bachelor's,Male,57,25,71,0
+40,29,18,IT,Master's,Male,63,10,86,0
+21,26,15,IT,High School,Male,50,22,73,0
+42,7,12,IT,Bachelor's,Male,85,31,72,0
+18,13,21,HR,Master's,Male,83,39,44,1
+40,14,12,Customer Service,Some College,Female,76,11,58,0
+56,14,5,Customer Service,Some College,Female,94,1,97,0
+71,14,27,IT,Some College,Male,89,19,88,1
+74,8,26,Marketing,High School,Female,76,10,15,0
+26,1,13,Relations,Bachelor's,Male,72,29,51,0
+73,3,10,IT,High School,Male,56,10,85,0
+22,3,18,Customer Service,Bachelor's,Male,98,2,58,0
+26,10,15,HR,PhD,Male,50,17,26,0
+49,17,18,IT,Bachelor's,Female,86,31,10,0
+36,21,2,Relations,Some College,Male,83,13,82,0
+41,22,16,Customer Service,Master's,Female,68,20,87,0
+71,13,25,Customer Service,High School,Female,76,1,71,0
+41,14,27,HR,PhD,Female,54,1,48,0
+46,24,14,Marketing,Bachelor's,Male,85,8,63,0
+32,19,9,Marketing,Master's,Male,62,38,77,0
+30,5,27,Marketing,High School,Male,83,18,64,1
+27,6,25,Marketing,Some College,Male,98,34,65,1
+42,16,21,Marketing,High School,Male,51,9,35,0
+47,23,21,Relations,Bachelor's,Female,80,26,52,1
+66,1,26,Marketing,Master's,Male,65,14,45,0
+74,1,3,Relations,Bachelor's,Male,86,5,24,0
+72,6,20,Customer Service,Bachelor's,Female,94,26,18,0
+66,24,10,Customer Service,High School,Female,68,13,44,0
+32,9,29,Marketing,Some College,Female,89,24,53,1
+52,12,1,IT,Bachelor's,Female,65,11,61,0
+57,22,17,HR,High School,Female,96,1,55,0
+18,17,14,IT,Master's,Female,59,9,55,0
+64,4,9,HR,Master's,Female,80,4,83,0
+73,6,13,Customer Service,Some College,Female,78,31,62,0
+58,16,24,IT,High School,Female,98,4,34,0
+70,1,20,Relations,Bachelor's,Male,53,32,93,0
+67,12,22,Customer Service,Master's,Male,54,13,74,0
+32,12,14,Customer Service,Some College,Male,62,1,37,0
+51,22,28,IT,PhD,Male,85,34,84,1
+79,19,7,Relations,Bachelor's,Male,58,11,26,0
+41,14,20,IT,Master's,Female,75,6,3,0
+75,20,29,HR,Some College,Female,74,11,89,0
+24,6,19,IT,Bachelor's,Female,71,29,98,0
+75,14,8,Customer Service,Some College,Male,56,31,78,0
+45,19,11,IT,Master's,Female,88,30,14,0
+33,2,28,Marketing,Master's,Male,67,31,49,0
+20,23,23,Customer Service,Bachelor's,Female,56,27,8,0
+48,18,29,Marketing,Some College,Female,64,24,58,0
+72,18,6,HR,Some College,Male,58,7,22,0
+42,16,20,HR,Some College,Female,87,31,99,1
+19,12,1,IT,Some College,Female,94,18,63,0
+19,19,18,HR,High School,Female,99,10,81,0
+50,7,18,HR,PhD,Female,89,22,66,0
+48,12,7,Marketing,Bachelor's,Female,97,12,43,0
+51,20,27,Customer Service,PhD,Male,56,16,17,0
+74,6,7,HR,Bachelor's,Male,67,1,54,0
+38,13,6,HR,PhD,Male,61,34,29,0
+79,19,20,Marketing,PhD,Female,71,18,77,1
+18,16,8,IT,PhD,Male,50,26,73,0
+22,12,9,HR,Master's,Male,76,17,75,0
+59,10,21,Relations,Some College,Female,88,27,3,0
+52,6,14,IT,Master's,Female,63,5,86,0
+74,28,19,HR,Some College,Female,83,22,42,0
+78,18,26,Customer Service,Some College,Female,79,25,36,0
+49,1,27,Relations,High School,Male,79,4,66,0
+63,9,15,Marketing,High School,Female,62,3,63,0
+59,14,7,Relations,Master's,Male,82,21,88,0
+29,18,8,IT,Bachelor's,Female,61,6,57,0
+29,24,24,HR,High School,Male,84,35,83,1
+54,1,9,Marketing,PhD,Female,89,8,65,0
+28,1,23,Customer Service,Some College,Male,88,18,27,0
+61,10,11,IT,Master's,Female,55,26,69,0
+42,24,1,HR,PhD,Male,67,7,16,0
+45,7,3,Marketing,High School,Female,60,1,16,0
+20,20,6,HR,Bachelor's,Male,85,4,2,0
+50,6,9,HR,Bachelor's,Female,89,31,61,0
+36,24,29,HR,Master's,Female,52,6,42,0
+50,23,27,Marketing,Some College,Male,92,1,34,0
+41,16,17,IT,PhD,Male,90,3,83,0
+57,19,6,Marketing,Some College,Female,53,17,25,0
+46,8,1,IT,Some College,Female,93,2,35,0
+63,14,18,HR,PhD,Female,55,30,68,0
+21,20,4,Marketing,Some College,Female,87,33,85,0
+50,23,27,Marketing,PhD,Female,65,4,74,0
+48,24,28,Customer Service,PhD,Male,60,10,87,0
+56,3,16,HR,Some College,Male,89,25,59,0
+23,20,13,IT,Some College,Male,74,6,11,0
+36,23,12,Relations,High School,Male,95,8,58,0
+27,3,26,HR,High School,Male,79,12,38,0
+55,23,27,IT,High School,Female,55,34,37,0
+71,10,19,Marketing,PhD,Female,94,39,17,0
+79,22,2,Customer Service,Master's,Male,69,36,66,0
+27,20,1,IT,Bachelor's,Female,59,1,16,0
+19,12,5,Relations,Bachelor's,Female,67,29,4,0
+46,21,17,IT,Master's,Male,95,36,71,0
+75,16,24,IT,PhD,Male,93,19,91,1
+71,24,16,IT,Master's,Female,86,33,42,0
+24,3,7,IT,Some College,Male,52,35,45,0
+47,24,7,Marketing,Some College,Male,87,5,33,0
+70,23,9,Marketing,Some College,Female,50,5,69,0
+68,10,10,IT,Master's,Male,71,4,33,0
+74,26,5,HR,Master's,Male,68,10,28,0
+23,9,19,Customer Service,Some College,Female,92,25,59,0
+46,25,21,IT,Master's,Male,51,9,71,0
+34,2,25,Customer Service,PhD,Male,79,26,23,0
+40,12,2,IT,Bachelor's,Female,79,24,31,0
+34,4,4,HR,Some College,Female,52,13,98,0
+74,9,11,Marketing,PhD,Male,61,12,77,0
+56,28,26,HR,Bachelor's,Female,72,39,5,0
+59,14,26,Relations,Bachelor's,Male,85,27,59,1
+35,19,17,Marketing,Bachelor's,Male,92,18,24,0
+79,20,28,Customer Service,Some College,Female,83,32,88,1
+28,12,23,Relations,Bachelor's,Male,66,36,29,0
+39,16,7,HR,High School,Male,52,11,90,0
+76,7,23,Marketing,PhD,Male,66,18,46,0
+54,18,20,Marketing,PhD,Female,64,12,75,0
+21,9,26,Customer Service,Bachelor's,Female,83,11,7,0
+23,3,10,Customer Service,Bachelor's,Male,77,11,7,0
+60,27,21,HR,Some College,Male,95,4,89,0
+64,29,24,Relations,High School,Male,84,20,74,1
+36,15,27,IT,High School,Female,81,17,71,1
+21,2,10,Marketing,High School,Female,82,16,6,0
+65,16,8,Marketing,Some College,Male,87,2,33,0
+78,29,25,HR,High School,Male,69,39,15,0
+30,16,3,Marketing,PhD,Male,57,38,97,0
+21,29,8,Marketing,High School,Female,96,14,27,0
+74,24,25,HR,PhD,Female,50,11,72,0
+66,19,11,Customer Service,Master's,Male,95,32,73,0
+22,8,21,Customer Service,High School,Female,85,9,39,0
+23,18,29,HR,Some College,Female,71,36,22,0
+29,8,13,IT,Some College,Male,90,15,94,0
+61,5,10,HR,High School,Female,59,21,5,0
+63,11,15,Relations,Master's,Female,89,38,87,0
+36,13,16,HR,High School,Male,70,12,17,0
+18,15,6,Customer Service,PhD,Male,61,21,10,0
+61,27,7,Relations,High School,Male,76,37,1,0
+55,5,24,IT,Some College,Female,53,35,59,0
+60,10,5,IT,Master's,Female,81,6,79,0
+54,1,15,Relations,High School,Male,62,23,93,0
+55,14,14,Customer Service,High School,Female,56,3,22,0
+38,5,29,HR,Some College,Female,72,20,47,1
+78,2,14,IT,Some College,Female,54,31,94,0
+49,17,14,Relations,PhD,Male,87,16,11,0
+45,16,19,Customer Service,PhD,Female,72,20,59,0
+26,5,2,Relations,Some College,Female,83,2,25,0
+42,2,3,Customer Service,Some College,Male,68,26,3,0
+74,17,13,HR,Bachelor's,Male,57,9,45,0
+26,21,28,Customer Service,High School,Male,71,18,53,1
+29,1,27,Marketing,Some College,Female,62,34,88,0
+71,25,2,IT,High School,Male,88,9,99,0
+40,9,19,HR,PhD,Female,98,5,2,0
+46,29,20,Relations,Master's,Male,88,3,48,0
+79,26,23,HR,High School,Male,58,25,38,0
+42,27,27,HR,Master's,Male,73,34,49,1
+46,23,15,Customer Service,High School,Male,91,11,47,0
+28,25,16,IT,Bachelor's,Female,60,18,38,0
+57,19,14,Customer Service,Master's,Male,66,2,42,0
+73,7,14,Marketing,Bachelor's,Female,96,27,44,0
+39,15,6,HR,PhD,Female,92,1,58,0
+76,8,21,Relations,Some College,Male,78,12,40,0
+71,7,9,HR,PhD,Female,90,7,57,0
+79,3,10,IT,High School,Male,79,13,77,0
+51,27,10,Relations,High School,Female,74,37,50,0
+23,28,20,IT,Master's,Male,91,35,60,1
+53,22,15,Customer Service,High School,Male,63,19,90,0
+23,22,10,HR,Master's,Male,90,39,84,0
+71,8,18,IT,Some College,Female,91,23,73,0
+57,27,3,Customer Service,PhD,Female,71,28,18,0
+76,19,8,IT,High School,Male,97,5,8,0
+33,4,21,Relations,Some College,Female,93,9,39,0
+27,28,7,Marketing,High School,Male,67,25,35,0
+64,21,13,Marketing,High School,Male,59,14,41,0
+68,9,5,HR,High School,Female,65,13,28,0
+49,12,10,Customer Service,Some College,Male,84,37,30,0
+71,18,7,HR,Master's,Male,90,20,60,0
+74,29,16,HR,High School,Male,76,20,80,0
+48,14,25,Customer Service,PhD,Female,95,8,69,0
+42,27,25,Customer Service,Master's,Female,68,19,79,0
+77,7,12,HR,High School,Male,68,30,71,0
+47,9,25,Customer Service,Bachelor's,Female,66,10,56,0
+79,16,5,HR,High School,Male,77,10,33,0
+39,29,10,IT,High School,Female,50,11,17,0
+23,23,20,Customer Service,Master's,Male,54,22,55,0
+60,3,26,IT,Some College,Female,84,22,5,0
+48,6,14,Marketing,High School,Female,70,3,13,0
+51,22,5,Marketing,Master's,Male,92,30,43,0
+77,25,19,Marketing,Some College,Female,85,20,11,0
+29,14,21,HR,Master's,Male,73,34,88,1
+78,12,14,IT,High School,Female,86,22,20,0
+52,15,16,HR,Some College,Female,84,16,35,0
+33,29,3,Relations,PhD,Female,95,32,58,0
+74,25,6,Customer Service,Some College,Female,80,21,23,0
+30,6,17,Relations,Bachelor's,Male,96,38,96,0
+31,3,20,Marketing,Some College,Male,67,15,28,0
+47,29,19,IT,Bachelor's,Female,62,14,76,0
+25,15,24,Relations,PhD,Male,82,34,86,1
+43,23,20,IT,Bachelor's,Male,81,32,56,1
+40,1,13,Marketing,High School,Male,86,17,16,0
+40,12,12,HR,Master's,Male,89,20,41,0
+25,17,16,IT,High School,Female,78,26,77,0
+61,10,24,Marketing,Bachelor's,Female,55,7,50,0
+49,3,1,Marketing,Master's,Female,77,20,14,0
+70,16,9,Customer Service,Bachelor's,Male,65,23,72,0
+34,10,14,Customer Service,PhD,Female,79,34,46,0
+49,29,3,Customer Service,PhD,Male,70,36,38,0
+63,17,15,Marketing,High School,Male,69,2,80,0
+61,13,21,Marketing,Master's,Female,71,13,4,0
+30,13,23,Relations,Bachelor's,Female,51,21,99,0
+78,2,17,Customer Service,Bachelor's,Male,95,21,59,0
+60,17,4,IT,High School,Female,97,12,68,0
+28,18,13,Marketing,Some College,Male,85,36,87,0
+23,20,22,Relations,Some College,Male,75,1,63,0
+76,9,8,IT,Master's,Female,95,16,12,0
+52,2,26,Customer Service,Bachelor's,Female,56,9,48,0
+57,18,2,IT,Master's,Female,93,27,25,0
+59,29,12,IT,Bachelor's,Male,74,13,67,0
+29,12,20,IT,Some College,Male,79,6,83,0
+68,6,7,Relations,High School,Male,74,10,91,0
+52,11,17,HR,PhD,Male,88,4,74,0
+41,14,26,Customer Service,Bachelor's,Male,90,39,46,1
+62,27,20,Customer Service,Bachelor's,Male,86,6,24,0
+27,18,24,Relations,PhD,Female,74,36,52,1
+71,19,18,Relations,Some College,Male,79,18,14,0
+46,23,1,HR,Master's,Male,99,26,70,0
+19,24,29,Relations,High School,Female,82,37,98,1
+36,29,4,IT,Bachelor's,Female,78,13,40,0
+42,12,25,IT,Bachelor's,Female,61,1,46,0
+70,5,28,Relations,Some College,Female,83,9,67,0
+20,9,28,HR,Some College,Female,57,13,9,0
+69,13,3,Relations,Master's,Female,62,25,85,0
+28,19,3,Marketing,High School,Female,74,7,86,0
+75,10,16,IT,Master's,Female,52,29,64,0
+22,4,9,Marketing,Master's,Male,61,24,83,0
+54,9,16,Marketing,Some College,Female,92,16,31,0
+32,14,13,Customer Service,Master's,Male,74,34,81,0
+47,9,12,Marketing,High School,Male,75,22,85,0
+61,13,10,Customer Service,Some College,Female,99,15,30,0
+77,18,12,Marketing,PhD,Male,56,20,51,0
+43,29,4,Relations,Some College,Male,50,27,30,0
+60,9,22,Customer Service,High School,Male,86,21,68,1
+39,21,6,Customer Service,Master's,Male,92,25,90,0
+70,19,2,IT,Bachelor's,Male,94,21,71,0
+22,23,26,HR,PhD,Male,94,34,52,1
+63,13,29,Customer Service,Some College,Male,70,10,45,0
+31,2,20,Customer Service,Bachelor's,Male,53,6,83,0
+20,24,24,IT,High School,Male,86,2,65,0
+50,15,13,Relations,PhD,Female,76,13,12,0
+33,1,29,Relations,Some College,Female,53,36,55,0
+66,25,28,IT,High School,Male,52,2,26,0
+25,14,14,Relations,Some College,Female,68,19,54,0
+50,19,1,HR,PhD,Male,61,8,73,0
+75,26,20,Relations,Master's,Male,55,5,13,0
+73,7,22,Customer Service,PhD,Male,58,16,97,0
+47,16,20,Marketing,Some College,Male,84,38,41,1
+64,20,16,Customer Service,PhD,Female,94,28,4,0
+48,3,23,Customer Service,Bachelor's,Male,60,5,65,0
+23,9,6,IT,Some College,Male,54,23,94,0
+71,4,14,Marketing,High School,Male,61,5,51,0
+24,19,9,Relations,Master's,Male,94,31,21,0
+74,12,8,Relations,Bachelor's,Female,56,36,66,0
+32,22,29,Relations,Master's,Male,55,21,76,0
+47,9,8,Marketing,High School,Male,53,6,85,0
+71,18,6,Customer Service,High School,Female,90,39,64,0
+25,6,3,Customer Service,Some College,Male,81,31,31,0
+62,14,26,Relations,High School,Female,75,37,89,1
+44,15,9,Marketing,Bachelor's,Male,51,2,91,0
+60,12,13,IT,High School,Male,64,7,83,0
+23,29,4,IT,Bachelor's,Male,89,33,57,0
+21,21,7,Relations,Bachelor's,Male,68,24,1,0
+40,18,14,IT,Some College,Female,73,15,25,0
+74,13,17,Relations,High School,Female,65,14,59,0
+61,13,7,Marketing,Some College,Female,50,38,87,0
+61,13,2,Relations,Bachelor's,Male,83,31,50,0
+32,16,16,Marketing,Master's,Female,68,36,79,0
+38,29,24,Customer Service,PhD,Male,56,24,58,0
+41,20,3,HR,Bachelor's,Male,79,16,98,0
+30,20,7,Marketing,Some College,Female,54,16,64,0
+67,12,26,Relations,High School,Male,56,7,14,0
+59,3,10,Relations,Some College,Male,89,27,19,0
+44,21,28,Marketing,Master's,Female,83,27,86,1
+49,1,14,Customer Service,PhD,Female,59,6,93,0
+26,14,15,Customer Service,Master's,Male,77,2,35,0
+19,22,22,HR,Some College,Female,99,38,52,1
+43,12,22,Marketing,Bachelor's,Female,87,21,68,1
+43,10,19,Customer Service,Bachelor's,Female,76,1,56,0
+22,28,21,Relations,High School,Male,77,6,31,0
+19,3,6,HR,Master's,Female,68,36,13,0
+44,13,28,Marketing,Master's,Female,86,9,88,0
+74,10,16,Relations,PhD,Female,67,6,34,0
+42,27,12,HR,High School,Female,70,35,16,0
+27,4,7,Relations,Bachelor's,Female,92,34,63,0
+26,13,15,Relations,High School,Female,87,3,61,0
+63,21,20,IT,Bachelor's,Female,66,37,95,0
+68,21,25,Relations,Some College,Female,51,10,7,0
+76,8,26,Customer Service,Master's,Female,51,24,41,0
+36,10,17,Marketing,High School,Female,63,24,56,0
+71,13,28,Customer Service,PhD,Female,81,4,29,0
+71,9,23,Marketing,Some College,Male,64,20,25,0
+49,14,23,Marketing,Some College,Female,75,27,16,0
+20,21,22,Marketing,Some College,Female,63,37,28,0
+62,17,10,HR,High School,Female,81,28,89,0
+65,20,28,Marketing,Master's,Female,65,9,69,0
+76,1,26,Relations,Some College,Male,57,27,5,0
+68,8,18,IT,High School,Female,79,26,17,0
+78,5,13,HR,Some College,Male,83,6,21,0
+37,16,29,HR,Bachelor's,Female,67,19,17,0
+39,9,3,Relations,Some College,Female,57,33,16,0
+38,17,6,HR,Some College,Male,61,5,95,0
+63,19,3,Customer Service,PhD,Male,93,17,81,0
+64,25,21,Customer Service,Some College,Male,61,5,53,0
+67,2,25,Customer Service,Master's,Male,52,37,41,0
+51,25,7,Marketing,Bachelor's,Female,60,28,69,0
+55,8,20,Customer Service,Some College,Female,88,23,82,1
+50,22,9,IT,Bachelor's,Female,95,15,14,0
+77,29,13,HR,High School,Female,69,14,26,0
+53,14,3,Customer Service,High School,Male,51,26,25,0
+62,4,11,HR,High School,Female,67,2,56,0
+32,10,28,Relations,PhD,Male,96,25,1,0
+54,28,20,Relations,High School,Male,69,36,95,0
+68,17,12,Relations,High School,Male,61,27,70,0
+18,10,20,HR,PhD,Male,89,19,83,1
+54,25,2,Customer Service,Some College,Male,69,24,46,0
+79,11,28,IT,Bachelor's,Male,98,6,35,0
+71,10,22,Marketing,PhD,Male,99,2,18,0
+61,21,17,Marketing,PhD,Male,87,8,38,0
+65,13,11,HR,High School,Female,65,16,53,0
+48,3,23,HR,High School,Female,70,29,14,0
+37,6,20,Customer Service,Master's,Male,60,1,91,0
+19,4,22,Relations,Some College,Male,73,8,40,0
+77,10,5,Relations,Master's,Female,80,13,74,0
+33,15,24,IT,Some College,Female,74,23,94,1
+55,19,28,HR,Master's,Female,88,27,25,0
+76,3,7,Marketing,Master's,Female,55,4,89,0
+69,17,3,Marketing,PhD,Male,66,8,26,0
+36,7,16,HR,Master's,Female,93,35,28,0
+26,15,22,HR,Some College,Male,80,18,45,1
+21,9,10,HR,Bachelor's,Female,98,30,9,0
+45,25,21,HR,High School,Male,98,39,44,1
+64,12,28,Relations,Master's,Male,52,4,62,0
+19,23,19,Relations,PhD,Female,81,16,74,0
+65,19,18,Relations,Master's,Male,53,20,59,0
+69,26,11,Customer Service,Bachelor's,Female,50,24,95,0
+62,28,3,Relations,Some College,Female,54,30,24,0
+44,23,4,HR,Some College,Male,62,23,78,0
+67,5,27,Marketing,PhD,Female,78,26,32,0
+57,12,20,IT,High School,Male,73,12,47,0
+62,1,26,Customer Service,PhD,Female,66,25,93,0
+61,21,24,Marketing,High School,Male,72,21,76,1
+51,9,13,Marketing,Some College,Female,61,11,42,0
+21,17,27,Marketing,Bachelor's,Female,63,10,46,0
+29,10,11,Relations,Master's,Male,72,38,3,0
+69,13,17,IT,High School,Female,59,39,26,0
+31,19,7,Marketing,PhD,Male,97,17,55,0
+73,22,25,Relations,High School,Female,60,16,95,0
+57,12,20,HR,Master's,Male,71,5,9,0
+76,13,22,IT,Master's,Female,57,7,60,0
+25,17,18,IT,PhD,Male,77,16,95,0
+44,11,25,Marketing,High School,Female,99,16,2,0
+45,25,15,IT,Master's,Female,66,13,95,0
+57,17,10,Marketing,PhD,Male,93,37,55,0
+51,11,25,HR,Some College,Female,54,30,59,0
+46,24,29,HR,Master's,Male,95,28,63,1
+70,13,11,Relations,Master's,Female,79,14,57,0
+18,9,28,Relations,PhD,Male,62,29,91,0
+77,1,29,Marketing,PhD,Female,56,1,33,0
+40,20,11,IT,High School,Male,78,34,63,0
+48,27,22,Customer Service,PhD,Male,94,30,98,1
+55,4,5,Marketing,Master's,Male,74,7,76,0
+25,11,5,IT,Master's,Male,55,35,83,0
+75,24,23,Customer Service,Master's,Female,79,7,9,0
+78,23,6,HR,PhD,Female,73,1,66,0
+52,2,25,Marketing,Bachelor's,Female,89,15,31,0
+26,28,11,Marketing,Bachelor's,Female,66,23,93,0
+73,10,10,HR,Some College,Female,78,23,43,0
+21,9,5,Marketing,High School,Female,62,5,80,0
+28,3,9,Relations,PhD,Male,53,26,31,0
+72,3,13,IT,High School,Female,99,17,85,0
+27,22,5,Relations,Bachelor's,Male,58,32,67,0
+61,10,14,Relations,PhD,Female,61,10,88,0
+27,15,29,HR,Master's,Male,57,20,39,0
+62,7,23,Marketing,High School,Male,68,17,65,0
+67,10,27,Marketing,Bachelor's,Male,50,35,49,0
+62,7,28,IT,Some College,Female,52,26,20,0
+65,16,13,Customer Service,Bachelor's,Female,61,6,81,0
+61,10,7,Relations,PhD,Male,97,15,22,0
+30,23,7,IT,Some College,Female,83,2,12,0
+18,21,12,Customer Service,PhD,Male,89,30,88,0
+32,29,13,Relations,PhD,Male,77,24,19,0
+41,22,11,Customer Service,Bachelor's,Male,63,12,82,0
+22,15,29,Marketing,Bachelor's,Male,92,27,77,1
+23,17,26,HR,Some College,Female,95,28,29,0
+51,24,6,Customer Service,Some College,Male,86,16,63,0
+43,9,7,HR,High School,Male,75,12,78,0
+76,2,5,Customer Service,PhD,Male,84,12,51,0
+31,6,8,Relations,High School,Female,75,30,75,0
+61,20,25,HR,Master's,Male,94,11,46,0
+39,3,13,HR,Master's,Female,93,1,93,0
+76,22,20,IT,Some College,Male,63,12,60,0
+46,16,1,Customer Service,Some College,Female,94,17,43,0
+67,27,17,Relations,Master's,Female,54,36,96,0
+76,21,4,HR,Some College,Male,60,12,64,0
+63,28,20,Marketing,High School,Female,77,19,65,1
+53,19,24,IT,PhD,Female,84,31,90,1
+22,1,2,Customer Service,PhD,Male,65,30,53,0
+48,1,7,Customer Service,High School,Male,61,16,45,0
+34,5,8,Marketing,Some College,Male,53,37,60,0
+59,26,18,Relations,Bachelor's,Female,59,39,41,0
+39,5,15,Customer Service,High School,Female,74,9,94,0
+60,15,26,IT,High School,Female,67,15,11,0
+32,14,24,IT,Some College,Male,61,4,26,0
+42,28,24,IT,Some College,Female,59,26,41,0
+32,24,17,HR,PhD,Male,93,12,66,0
+49,26,27,Marketing,High School,Female,86,14,20,0
+56,3,21,IT,Master's,Female,69,25,63,0
+51,19,16,IT,PhD,Male,53,15,87,0
+43,25,10,Customer Service,High School,Female,61,36,40,0
+23,22,5,Customer Service,Bachelor's,Male,90,33,38,0
+54,24,21,IT,Bachelor's,Female,92,7,77,0
+18,22,17,Customer Service,Some College,Male,88,30,69,0
+24,24,29,Relations,High School,Male,60,17,74,0
+72,20,15,Marketing,Master's,Female,65,13,28,0
+36,6,28,Relations,PhD,Male,91,19,20,0
+28,16,19,Relations,High School,Female,75,39,82,0
+46,2,17,Marketing,Bachelor's,Female,59,6,7,0
+78,9,2,Relations,Bachelor's,Male,79,3,23,0
+72,24,1,IT,Master's,Female,63,19,71,0
+42,26,11,Marketing,PhD,Female,87,24,83,0
+35,25,19,Customer Service,Some College,Female,97,33,35,0
