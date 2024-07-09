@@ -1,8 +1,0 @@
-This project is designed to predict whether an employee should be promoted based on
-various factors such as age, years of experience, number of trainings attended, department, 
-education level, gender, previous year rating, length of service, and number of projects handled. 
-The prediction model is built using a Decision Tree Classifier from the scikit-learn library.
-
- Using a previously trained dataset, the model can predict the promotion status of any new data,
-determining whether the employee deserves a promotion or not. 
-
